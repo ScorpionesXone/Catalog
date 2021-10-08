@@ -1,7 +1,7 @@
 # Catalog
 A catalog of low-mass X-ray binaries
 
-![alt text](http://url/to/img.png)
+![alt text](https://assets.newatlas.com/dims4/default/bface03/2147483647/strip/true/crop/1400x933+0+0/resize/1400x933!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb9%2F33%2F7bab02484a9d975147dfc04171bf%2Fmworiginal.jpg)
 
 
 ## Table
