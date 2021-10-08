@@ -1,7 +1,7 @@
 # Catalog
 A catalog of low-mass X-ray binaries
 
-![Markdown logo]
+![Markdown Logo]
 (https://markdown-here.com/img/icon256.png)
 
 
