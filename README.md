@@ -60,7 +60,7 @@ Lx_Lopt - ratio between X-ray and optical luminosities
 
 Mx, Mopt, Mx_Mopt - mass of the compact object and optical star (in Msun) and their ratio
 
-B_V, E_B_V -colour index and interstellar redenning  
+B_V, E_B_V - colour index and interstellar redenning  
 
 IDS - all the identifiers that exist in SIMBAD
 
